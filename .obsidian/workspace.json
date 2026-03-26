@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "657de16c335693b2",
+        "id": "e62bfa1d59704fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "31b5b144f8f869ec",
+            "id": "60cf6346072782aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "CPython Internals"
-            }
-          }
-        ]
-      },
-      {
-        "id": "57a958eea8b89bc4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec4463434a789682",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -199,8 +183,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "31b5b144f8f869ec",
+  "active": "60cf6346072782aa",
   "lastOpenFiles": [
+    "Passing Arguments in Python - \"Pass by Object Reference\".md",
+    "Python Memory Data Storage.md",
     "CPython Internals.md",
     "Untitled.base",
     "2026-02-18.md",
