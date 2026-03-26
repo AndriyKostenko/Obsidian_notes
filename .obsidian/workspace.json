@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e62bfa1d59704fb8",
+        "id": "f36d3116504497e4",
         "type": "tabs",
         "children": [
           {
-            "id": "60cf6346072782aa",
+            "id": "e7cc035e75f69063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPython Internals.md",
+                "file": "Python/Event-loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPython Internals"
+              "title": "Event-loop"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPython Internals.md",
+                "file": "Python/Event-loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPython Internals"
+              "title": "Backlinks for Event-loop"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPython Internals.md",
+                "file": "Python/Event-loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CPython Internals"
+              "title": "Outgoing links from Event-loop"
             }
           },
           {
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +181,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "e541c8f202e563bd",
+  "active": "e7cc035e75f69063",
   "lastOpenFiles": [
-    "Passing Arguments in Python - \"Pass by Object Reference\".md",
-    "Python Memory Data Storage.md",
-    "CPython Internals.md",
+    "Untitled.md",
+    "Python/Event-loop.md",
+    "Python/Multithreading & Multiprocessing.md",
+    "Python/CPython Internals.md",
+    "Excalidraw/Drawing 2026-03-26 07.54.45.excalidraw.md",
+    "Python/Popular Design Patterns.md",
+    "Excalidraw",
+    "Python/Async in Python.md",
+    "Python",
+    "Python/Python Memory Data Storage.md",
+    "Python/Passing Arguments in Python - \"Pass by Object Reference\".md",
+    "Python/n+1 problem.md",
     "Untitled.base",
     "2026-02-18.md",
     "Welcome.md"
