@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "CPython Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from CPython Internals"
             }
           },
           {
@@ -183,7 +183,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "60cf6346072782aa",
+  "active": "e541c8f202e563bd",
   "lastOpenFiles": [
     "Passing Arguments in Python - \"Pass by Object Reference\".md",
     "Python Memory Data Storage.md",
