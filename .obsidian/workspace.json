@@ -106,17 +106,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -181,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +193,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "c33785b9ae5f8670",
+  "active": "e541c8f202e563bd",
   "lastOpenFiles": [
-    "2026-02-18.md",
     "Untitled.base",
+    "2026-02-18.md",
     "Welcome.md"
   ]
 }
