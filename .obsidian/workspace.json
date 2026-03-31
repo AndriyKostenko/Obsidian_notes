@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f36d3116504497e4",
+        "id": "c57cd33c9e936ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7cc035e75f69063",
+            "id": "0ecef73df2cd3f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Event-loop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Event-loop"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Event-loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Event-loop"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Event-loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Event-loop"
+              "title": "Outgoing links"
             }
           },
           {
@@ -186,21 +180,25 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e7cc035e75f69063",
+  "active": "c33785b9ae5f8670",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Python/Event-loop.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "JavaScript/Storage Types.md",
     "Python/Multithreading & Multiprocessing.md",
+    "JavaScript",
+    "Python/Python Memory Data Storage.md",
+    "Python/Event-loop.md",
+    "Untitled.md",
     "Python/CPython Internals.md",
     "Excalidraw/Drawing 2026-03-26 07.54.45.excalidraw.md",
     "Python/Popular Design Patterns.md",
     "Excalidraw",
     "Python/Async in Python.md",
     "Python",
-    "Python/Python Memory Data Storage.md",
     "Python/Passing Arguments in Python - \"Pass by Object Reference\".md",
     "Python/n+1 problem.md",
-    "Untitled.base",
     "2026-02-18.md",
     "Welcome.md"
   ]
