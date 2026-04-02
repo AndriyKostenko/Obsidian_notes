@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c57cd33c9e936ad2",
+        "id": "d2ef79d0026f4ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "0ecef73df2cd3f42",
+            "id": "5b136adc48908527",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python/Cравнение механизмов наследования в JavaScript и Python.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cравнение механизмов наследования в JavaScript и Python"
             }
           }
         ]
@@ -69,12 +73,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f34b27536d167e0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 282.5
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -150,13 +164,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "JavaScript/Storage Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Storage Types"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d33099a685efba92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10cbddd3dd153f1a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -169,7 +200,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -177,28 +207,40 @@
       "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "graph:Open graph view": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "c33785b9ae5f8670",
   "lastOpenFiles": [
+    "JavaScript/Cравнение механизмов наследования в JavaScript и Python.md",
+    "Python/Cравнение механизмов наследования в JavaScript и Python.md",
+    "Programming/Design Patterns in Different Prog. Lang..md",
+    "TUI installed/TUI installed on myMac.md",
+    "Programming",
+    "TUI installed",
+    "Python/Live Coding Info Helpers.md",
+    "JavaScript/Storage Types.md",
+    "JavaScript/Call Stack , Task Queu.md",
+    "Untitled.md",
+    "Python/n+1 problem.md",
+    "Python/Multithreading & Multiprocessing.md",
+    "Python/Async in Python.md",
+    "Python/CPython Internals.md",
+    "Python/Event-loop.md",
+    "Python/Popular Design Patterns.md",
+    "Untitled.canvas",
+    "2026-03-31.md",
+    "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
-    "JavaScript/Storage Types.md",
-    "Python/Multithreading & Multiprocessing.md",
     "JavaScript",
     "Python/Python Memory Data Storage.md",
-    "Python/Event-loop.md",
-    "Untitled.md",
-    "Python/CPython Internals.md",
     "Excalidraw/Drawing 2026-03-26 07.54.45.excalidraw.md",
-    "Python/Popular Design Patterns.md",
     "Excalidraw",
-    "Python/Async in Python.md",
     "Python",
     "Python/Passing Arguments in Python - \"Pass by Object Reference\".md",
-    "Python/n+1 problem.md",
     "2026-02-18.md",
     "Welcome.md"
   ]

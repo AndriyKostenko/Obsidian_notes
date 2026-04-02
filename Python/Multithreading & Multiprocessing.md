@@ -1,5 +1,4 @@
-
----
+[[Async in Python]]
 
 ### 1. Главное препятствие: GIL (Global Interpreter Lock)
 
