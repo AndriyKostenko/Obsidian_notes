@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d2ef79d0026f4ef4",
+        "id": "b40375cd7f3b577e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b136adc48908527",
+            "id": "f95b900d5d4220d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Cравнение механизмов наследования в JavaScript и Python.md",
+                "file": "Python/Python Memory Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cравнение механизмов наследования в JavaScript и Python"
+              "title": "Python Memory Management"
+            }
+          },
+          {
+            "id": "2135985a550410b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Win an AI Hackathon in 48 Hours.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Win an AI Hackathon in 48 Hours"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -212,23 +228,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c33785b9ae5f8670",
+  "active": "2135985a550410b0",
   "lastOpenFiles": [
-    "JavaScript/Cравнение механизмов наследования в JavaScript и Python.md",
+    "Python/Python Memory Management.md",
+    "How to Win an AI Hackathon in 48 Hours.md",
+    "Python/Этапы выполнения Python-кода.md",
+    "Python/Event-loop.md",
     "Python/Cравнение механизмов наследования в JavaScript и Python.md",
+    "Python/CPython Internals.md",
+    "Python/Async in Python.md",
     "Programming/Design Patterns in Different Prog. Lang..md",
+    "JavaScript/Cравнение механизмов наследования в JavaScript и Python.md",
     "TUI installed/TUI installed on myMac.md",
     "Programming",
     "TUI installed",
     "Python/Live Coding Info Helpers.md",
     "JavaScript/Storage Types.md",
     "JavaScript/Call Stack , Task Queu.md",
-    "Untitled.md",
     "Python/n+1 problem.md",
     "Python/Multithreading & Multiprocessing.md",
-    "Python/Async in Python.md",
-    "Python/CPython Internals.md",
-    "Python/Event-loop.md",
     "Python/Popular Design Patterns.md",
     "Untitled.canvas",
     "2026-03-31.md",
