@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b40375cd7f3b577e",
+        "id": "63c8e795c5102025",
         "type": "tabs",
         "children": [
           {
-            "id": "f95b900d5d4220d9",
+            "id": "3b4745f62c262f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python Memory Management.md",
+                "file": "TUI installed/TUI installed on myMac.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Memory Management"
-            }
-          },
-          {
-            "id": "2135985a550410b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Win an AI Hackathon in 48 Hours.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to Win an AI Hackathon in 48 Hours"
+              "title": "TUI installed on myMac.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -228,21 +212,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2135985a550410b0",
+  "active": "3b4745f62c262f02",
   "lastOpenFiles": [
-    "Python/Python Memory Management.md",
-    "How to Win an AI Hackathon in 48 Hours.md",
-    "Python/Этапы выполнения Python-кода.md",
+    "TUI installed/TUI installed on myMac.md.md",
     "Python/Event-loop.md",
     "Python/Cравнение механизмов наследования в JavaScript и Python.md",
-    "Python/CPython Internals.md",
+    "Python/Live Coding Info Helpers.md",
     "Python/Async in Python.md",
     "Programming/Design Patterns in Different Prog. Lang..md",
+    "JavaScript/Замыкание (Closure).md",
+    "Python/Yield vs Return.md",
+    "Python/Refresh token.md",
+    "Order Creation Flow — Event Flow Diagram.md",
+    "Python/Python Memory Management.md",
+    "How to Win an AI Hackathon in 48 Hours.md",
+    "How to Win an AI Hackathon in 48 Hours copy.md",
+    "Python/Этапы выполнения Python-кода.md",
+    "Python/CPython Internals.md",
     "JavaScript/Cравнение механизмов наследования в JavaScript и Python.md",
-    "TUI installed/TUI installed on myMac.md",
     "Programming",
     "TUI installed",
-    "Python/Live Coding Info Helpers.md",
     "JavaScript/Storage Types.md",
     "JavaScript/Call Stack , Task Queu.md",
     "Python/n+1 problem.md",
@@ -259,7 +248,6 @@
     "Excalidraw",
     "Python",
     "Python/Passing Arguments in Python - \"Pass by Object Reference\".md",
-    "2026-02-18.md",
-    "Welcome.md"
+    "2026-02-18.md"
   ]
 }

@@ -1,6 +1,5 @@
  APRIL 28, 2026 • FRONTEND YYC 
 
-
 PRESENTED BY
 
 [Andriy Kostenko]([https://www.linkedin.com/in/gatezh/](https://www.linkedin.com/in/andriy-kostenko-02969021b/)) 
