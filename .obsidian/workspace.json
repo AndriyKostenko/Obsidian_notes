@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63c8e795c5102025",
+        "id": "4434fa859f3b5834",
         "type": "tabs",
         "children": [
           {
-            "id": "3b4745f62c262f02",
+            "id": "9a561d6186dc1e13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TUI installed/TUI installed on myMac.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TUI installed on myMac.md"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -172,9 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline of Storage Types"
             }
+          },
+          {
+            "id": "7e954a1f3c41e7c7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "d33099a685efba92",
@@ -209,45 +216,48 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph:3D Graph": false,
       "graph:Open graph view": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3b4745f62c262f02",
+  "active": "9a561d6186dc1e13",
   "lastOpenFiles": [
+    "2026-05-11.md",
+    "Python/Testing in python.md",
+    "Untitled Kanban.md",
+    "Python/Multithreading & Multiprocessing.md",
+    "Order Creation Flow — Event Flow Diagram.md",
+    "Untitled 2.base",
+    "JavaScript/Storage Types.md",
+    "Untitled.md",
+    "Python/Async in Python.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Python/Yield vs Return.md",
+    "OpenFang.md",
+    "openfang-logo.png",
+    "How to Win an AI Hackathon in 48 Hours.md",
     "TUI installed/TUI installed on myMac.md.md",
+    "Python/Refresh token.md",
     "Python/Event-loop.md",
     "Python/Cравнение механизмов наследования в JavaScript и Python.md",
     "Python/Live Coding Info Helpers.md",
-    "Python/Async in Python.md",
     "Programming/Design Patterns in Different Prog. Lang..md",
     "JavaScript/Замыкание (Closure).md",
-    "Python/Yield vs Return.md",
-    "Python/Refresh token.md",
-    "Order Creation Flow — Event Flow Diagram.md",
     "Python/Python Memory Management.md",
-    "How to Win an AI Hackathon in 48 Hours.md",
     "How to Win an AI Hackathon in 48 Hours copy.md",
     "Python/Этапы выполнения Python-кода.md",
     "Python/CPython Internals.md",
     "JavaScript/Cравнение механизмов наследования в JavaScript и Python.md",
     "Programming",
     "TUI installed",
-    "JavaScript/Storage Types.md",
     "JavaScript/Call Stack , Task Queu.md",
     "Python/n+1 problem.md",
-    "Python/Multithreading & Multiprocessing.md",
     "Python/Popular Design Patterns.md",
-    "Untitled.canvas",
-    "2026-03-31.md",
-    "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "JavaScript",
-    "Python/Python Memory Data Storage.md",
-    "Excalidraw/Drawing 2026-03-26 07.54.45.excalidraw.md",
     "Excalidraw",
-    "Python",
-    "Python/Passing Arguments in Python - \"Pass by Object Reference\".md",
-    "2026-02-18.md"
+    "Python"
   ]
 }

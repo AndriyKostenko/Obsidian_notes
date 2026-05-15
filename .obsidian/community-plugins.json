@@ -4,5 +4,8 @@
   "3d-graph",
   "calendar",
   "code-styler",
-  "mermaid-tools"
+  "mermaid-tools",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-kanban"
 ]
