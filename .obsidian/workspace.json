@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6441f517719236ea",
+        "id": "22a70cab6147ec27",
         "type": "tabs",
         "children": [
           {
-            "id": "295131e7d983a02a",
+            "id": "d366d867863c5426",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "About me/About myself.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "About myself"
             }
           }
         ]
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.7890625
   },
   "right": {
     "id": "c184b5b34341ce0c",
@@ -226,37 +230,43 @@
       "graph:Open graph view": false
     }
   },
-  "active": "295131e7d983a02a",
+  "active": "d366d867863c5426",
   "lastOpenFiles": [
-    "JavaScript/Difference between objects and primitives.md",
+    "About me/Untitled.md",
+    "About me/About myself.md",
+    "Python/Async in Python.md",
+    "Python/CPython Internals.md",
+    "Python/Creation of the new object in Python.md",
+    "How to Win an AI Hackathon in 48 Hours.md",
     "OpenFang.md",
-    "JavaScript/Замыкание (Closure).md",
-    "Programming/Design Patterns in Different Prog. Lang..md",
-    "Python/ИДЕМПОТЕНТНОСТЬ.md",
-    "Untitled 1.canvas",
-    "Python/Popular Design Patterns.md",
     "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Untitled 1.canvas",
+    "About me/488453615_10213374464073287_2685780647243487207_n.jpg",
+    "About me/photo_2026-09-29 18.03.43.jpeg",
+    "About me/photo_2026-09-29 18.03.24.jpeg",
+    "About me/497812896_10213652332659828_2231974937285963985_n.jpg",
+    "Golang/What are goroutines?.md",
+    "Golang/Golang variables.md",
+    "About me",
+    "Python/Этапы выполнения Python-кода.md",
+    "Python/Уровни изоляции в Postgress.md",
+    "Python/ТОП PostgreSQL Questions.md",
+    "Python/Yield vs Return.md",
     "Python/Testing in python.md",
     "Python/Refresh token.md",
-    "Python/Python Memory Management.md",
-    "Python/Python Memory Data Storage.md",
+    "Programming/Design Patterns in Different Prog. Lang..md",
+    "Python/Popular Design Patterns.md",
     "Python/Passing Arguments in Python - \"Pass by Object Reference\".md",
-    "Python/n+1 problem.md",
-    "JavaScript/Storage Types.md",
-    "JavaScript/Cравнение механизмов наследования в JavaScript и Python.md",
-    "JavaScript/Call Stack , Task Queu.md",
-    "Golang/Golang variables.md",
-    "Golang",
-    "Python/ТОП PostgreSQL Questions.md",
+    "Python/Multithreading & Multiprocessing.md",
     "Python/Live Coding Info Helpers.md",
-    "Python/Уровни изоляции в Postgress.md",
-    "How to Win an AI Hackathon in 48 Hours.md",
-    "2026-05-11.md",
-    "2026-05-19.md",
-    "Untitled Kanban.md",
+    "Python/Event-loop.md",
     "Order Creation Flow — Event Flow Diagram.md",
+    "JavaScript/Call Stack , Task Queu.md",
+    "JavaScript/Difference between objects and primitives.md",
+    "JavaScript/Замыкание (Closure).md",
+    "Golang",
     "openfang-logo.png",
-    "Python/Creation of the new object in Python.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
