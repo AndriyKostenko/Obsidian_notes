@@ -7,6 +7,54 @@ Hobbies: - I've been playing basketball for a 10+ years since the 8 years old; -
 CodeWars profile: https://www.codewars.com/users/Andriy_Kostenko/badges/small
 
 HIGHLIGHTS
+Done 2 live presentations: 
+ - 1. "I had the chance to give a presentation to the IT community in Calgary about one of my favorite programming languages (Python) titled: "The Dark Side of Python."  
+  
+	Throughout my career and after going through many different interviews, I have encountered several advanced topics worth discussing and thinking about.  
+	Here are at least 5 key points that can surprise even experienced Python devs:  
+	- The mutation of "immutable" data types  
+	- Multiple inheritance and MRO  
+	- The fact that nothing is truly "private" or "protected"  
+	- Breaking internal logic by redefining "dunder" (special, built-in) methods  
+	- Metaclasses  
+	  
+	As a result of the presentation, the attendees learned that Python is only "simple" on the surface. There are many hidden mechanics and behaviors that allow you to write highly complex solutions with this programming language."
+- 2. Recently, I had the opportunity to present my success story on how to successfully compete in an AI hackathon.  
+	One of the biggest lessons I learned:  
+	Hackathons are not won by perfect code or complex architecture.  
+	They’re won by execution, clarity, and the ability to build something people can instantly understand and believe in.  
+	For me, success came from keeping things simple:  
+	• Choosing a familiar tech stack  
+	• Moving fast instead of overengineering  
+	• Leveraging AI and existing models instead of reinventing everything  
+	• Focusing heavily on the demo experience and storytelling  
+	In short:  
+	Speed + simplicity + a convincing vision > perfection  
+	The experience reminded me that sometimes the biggest advantage in tech is not building more — but building the right thing under pressure.
+
+• AI Hackaton winner: 🥈 [****Andriy Kostenko****](https://www.linkedin.com/in/andriy-k-02969021b/) - Second Place Winner – Full-Stack Hackathon  🎉  
+  
+I’m excited to share that I placed 2nd overall at a 48-hour full-stack hackathon sponsored by [****Raise****](https://www.linkedin.com/company/raiserecruiting/) and [****SkillsProject****](https://www.linkedin.com/company/skillsproject/), winning the "Runner-Up" award !!!  
+  
+I decided to go with the 🚧 PPE Vision Detector project.  
+The goal was to build a practical solution that detects PPE violations.  
+I developed an end-to-end system that:  
+- Uploads an image  
+- Detects helmet / no-helmet violations  
+- Generates an annotated image  
+- Exports a PDF safety incident report  
+  
+🛠️ Tech Stack  
+Frontend: Next.js (JavaScript)  
+Backend: FastAPI (Python)  
+Detection Model: YOLO11 (Ultralytics)  
+Computer Vision: OpenCV  
+PDF Generation: ReportLab  
+Containerization: Docker  
+  
+💡 What I loved about this experience  
+These hackathons aren’t just coding sprints — they feel like extended technical interviews. You’re pushed to make real architectural decisions, deliver under pressure, and ship something close to production in a very short time.  
+In just 48 hours, this challenge turned into a fully working safety solution with CV inference, annotation overlays, and automated reporting.
 
 • Full-Stack Web Developer with 5+ years of experience specializing in AI-powered web applications, machine learning integration, and scalable backend systems
 
